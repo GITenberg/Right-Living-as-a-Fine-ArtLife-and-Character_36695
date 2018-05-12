@@ -1,0 +1,36 @@
+_repo: Right-Living-as-a-Fine-ArtLife-and-Character_36695
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Channing, W. H. (William Henry)
+    alias: Channing, William Henry
+    birthdate: 1810
+    deathdate: 1884
+    gutenberg_agent_id: '38364'
+    url: http://www.gutenberg.org/2009/agents/38364
+covers:
+- cover_type: archival
+  image_path: 36695-h/images/cover_1.jpg
+creator:
+  author:
+    agent_name: Hillis, Newell Dwight
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '7266'
+    url: http://www.gutenberg.org/2009/agents/7266
+description: ''
+gutenberg_issued: '2011-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36695'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Character'
+- !lcc 'BJ'
+- !lcsh 'Conduct of life'
+title: "Right Living as a Fine Art\r\nA Study of Channing's Symphony as an Outline\
+  \ of the Ideal Life and Character"
+url: http://www.gutenberg.org/ebooks/36695
