@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '7266'
     url: http://www.gutenberg.org/2009/agents/7266
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36695#Right-Living-as-a-Fine-ArtLife-and-Character
 gutenberg_issued: '2011-07-10'
 gutenberg_type: Text
 identifiers:
